@@ -7,4 +7,14 @@
 .logo_senai{
     width: 250px;
     height: 50px;
+    display: flex;
+    margin-top: 2vh;
+}
+.linha{
+  display: flex;
+  margin-left: 28vh;
+  margin-top: -5vh;
+  width: 1px;
+  height: 50px;
+  background-color: black;
 }
